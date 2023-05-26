@@ -1,0 +1,7 @@
+{
+  "stakeManager": "0x81DB617Fe8f2f38F949f8f1Ee4E9DB7f164408CE",
+  "bfcStakingContractAddress": "0x0000000000000000000000000000000000000400",
+
+  "stEvmosContractAddress": "0x5840Ec2Bb9f50FefC6d9D185F5e91BCfe6173208",
+  "evmosLiquidStakingContractAddress": "0xf32913f7180546da24C42D6D8ACE7869a13C8566"
+}
