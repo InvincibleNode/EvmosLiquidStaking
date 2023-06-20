@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Evmos liquid staking
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Addresses
+ - stEvmosContractAddress: '0xf22D94F00EA4771Ac24B79a88Defd0Ab02550551',
+ - evmosLiquidStakingContractAddress: '0x25177D26831D452fE40cAEb8011689EFDfA2C865'
